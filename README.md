@@ -34,6 +34,9 @@ log normalization:
 double normalization:
 pro: useful for augmented frequency, to prevent a bias towards longer documents, e.g. raw frequency divided by the raw frequency of the most frequently occurring term in the document(wikipedia)
 con: dependable on document frequency of a different word and thus not accurate.
+
+
+
 Imported folder as zip
 Read the data
 Removed all the query-url pairs with qid != 4
